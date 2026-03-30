@@ -30,10 +30,12 @@ This project is based on open-source software (Git) and understanding how it wor
 
 ## How to Run Scripts
 
-Step 1: Give permission  
+Step 1: Download ubuntu wsl 22.07 
+
+Step 2: Give permission  
 chmod +x script1.sh  
 
-Step 2: Run script  
+Step 3: Run script  
 ./script1.sh  
 
 
