@@ -1,7 +1,11 @@
 # Open Source Audit Project
 
-Name: Rishika Sinha 
+Name: Rishika Sinha
+
+
 Registration Number: 24BCE10463 
+
+
 Chosen Software: Git  
 
 ## About the Project
@@ -32,7 +36,6 @@ chmod +x script1.sh
 Step 2: Run script  
 ./script1.sh  
 
-(Same steps apply for other scripts)
 
 ## Requirements
 - Ubuntu (WSL)
